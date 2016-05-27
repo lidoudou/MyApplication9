@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //dsgfhkl
         //李豆
+        //今天星期五
     }
 }
